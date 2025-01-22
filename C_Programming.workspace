@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C_Programming" Database="" Version="10000">
+  <Project Name="Pointers" Path="Pointers/Pointers.project" Active="No"/>
+  <Project Name="PointerArithmatics" Path="PointerArithmatics/PointerArithmatics.project" Active="No"/>
+  <Project Name="VoidPointers" Path="VoidPointers/VoidPointers.project" Active="No"/>
+  <Project Name="PointerPointer" Path="PointerPointer/PointerPointer.project" Active="No"/>
+  <Project Name="ArrayOfPointers" Path="ArrayOfPointers/ArrayOfPointers.project" Active="No"/>
+  <Project Name="PointerToArray" Path="PointerToArray/PointerToArray.project" Active="No"/>
+  <Project Name="FunctionReturningPointer" Path="FunctionReturningPointer/FunctionReturningPointer.project" Active="No"/>
+  <Project Name="FunctionPointers" Path="FunctionPointers/FunctionPointers.project" Active="No"/>
+  <Project Name="CallBackFunctions" Path="CallBackFunctions/CallBackFunctions.project" Active="No"/>
+  <Project Name="ConstantPointer" Path="ConstantPointer/ConstantPointer.project" Active="No"/>
+  <Project Name="PointerToConstant" Path="PointerToConstant/PointerToConstant.project" Active="No"/>
+  <Project Name="Strings" Path="Strings/Strings.project" Active="No"/>
+  <Project Name="fgetsFunction" Path="fgetsFunction/fgetsFunction.project" Active="No"/>
+  <Project Name="StringConstants" Path="StringConstants/StringConstants.project" Active="No"/>
+  <Project Name="StringsFunctions" Path="StringsFunctions/StringsFunctions.project" Active="No"/>
+  <Project Name="2D_CharacterArray" Path="2D_CharacterArray/2D_CharacterArray.project" Active="No"/>
+  <Project Name="ArrayOfCharacterPointers" Path="ArrayOfCharacterPointers/ArrayOfCharacterPointers.project" Active="No"/>
+  <Project Name="CommandLineArguments" Path="CommandLineArguments/CommandLineArguments.project" Active="No"/>
+  <Project Name="DMA_malloc" Path="DMA_malloc/DMA_malloc.project" Active="No"/>
+  <Project Name="PracticeOnOperators" Path="PracticeOnOperators/PracticeOnOperators.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Pointers" ConfigName="Debug"/>
+      <Project Name="PointerArithmatics" ConfigName="Debug"/>
+      <Project Name="VoidPointers" ConfigName="Debug"/>
+      <Project Name="PointerPointer" ConfigName="Debug"/>
+      <Project Name="ArrayOfPointers" ConfigName="Debug"/>
+      <Project Name="PointerToArray" ConfigName="Debug"/>
+      <Project Name="FunctionReturningPointer" ConfigName="Debug"/>
+      <Project Name="FunctionPointers" ConfigName="Debug"/>
+      <Project Name="CallBackFunctions" ConfigName="Debug"/>
+      <Project Name="ConstantPointer" ConfigName="Debug"/>
+      <Project Name="PointerToConstant" ConfigName="Debug"/>
+      <Project Name="Strings" ConfigName="Debug"/>
+      <Project Name="fgetsFunction" ConfigName="Debug"/>
+      <Project Name="StringConstants" ConfigName="Debug"/>
+      <Project Name="StringsFunctions" ConfigName="Debug"/>
+      <Project Name="2D_CharacterArray" ConfigName="Debug"/>
+      <Project Name="ArrayOfCharacterPointers" ConfigName="Debug"/>
+      <Project Name="CommandLineArguments" ConfigName="Debug"/>
+      <Project Name="DMA_malloc" ConfigName="Debug"/>
+      <Project Name="PracticeOnOperators" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Pointers" ConfigName="Release"/>
+      <Project Name="PointerArithmatics" ConfigName="Release"/>
+      <Project Name="VoidPointers" ConfigName="Release"/>
+      <Project Name="PointerPointer" ConfigName="Release"/>
+      <Project Name="ArrayOfPointers" ConfigName="Release"/>
+      <Project Name="PointerToArray" ConfigName="Release"/>
+      <Project Name="FunctionReturningPointer" ConfigName="Release"/>
+      <Project Name="FunctionPointers" ConfigName="Release"/>
+      <Project Name="CallBackFunctions" ConfigName="Release"/>
+      <Project Name="ConstantPointer" ConfigName="Release"/>
+      <Project Name="PointerToConstant" ConfigName="Release"/>
+      <Project Name="Strings" ConfigName="Release"/>
+      <Project Name="fgetsFunction" ConfigName="Release"/>
+      <Project Name="StringConstants" ConfigName="Release"/>
+      <Project Name="StringsFunctions" ConfigName="Release"/>
+      <Project Name="2D_CharacterArray" ConfigName="Release"/>
+      <Project Name="ArrayOfCharacterPointers" ConfigName="Release"/>
+      <Project Name="CommandLineArguments" ConfigName="Release"/>
+      <Project Name="DMA_malloc" ConfigName="Release"/>
+      <Project Name="PracticeOnOperators" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

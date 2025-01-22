@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CinDepth" Database="CinDepth-chitti.tags" Version="10000">
+  <Project Name="Inputoutput" Path="Inputoutput/Inputoutput.project" Active="No"/>
+  <Project Name="Temp_C_To_F" Path="Temp_C_To_F/Temp_C_To_F.project" Active="No"/>
+  <Project Name="Area_Perimeter_Circle" Path="Area_Perimeter_Circle/Area_Perimeter_Circle.project" Active="No"/>
+  <Project Name="Octal_Hexadecimal" Path="Octal_Hexadecimal/Octal_Hexadecimal.project" Active="No"/>
+  <Project Name="Modulo" Path="Modulo/Modulo.project" Active="No"/>
+  <Project Name="TernaryOperator" Path="TernaryOperator/TernaryOperator.project" Active="No"/>
+  <Project Name="Percentage" Path="Percentage/Percentage.project" Active="No"/>
+  <Project Name="SumOfDigits" Path="SumOfDigits/SumOfDigits.project" Active="No"/>
+  <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
+  <Project Name="Binary_to_Decimal" Path="Binary_to_Decimal/Binary_to_Decimal.project" Active="No"/>
+  <Project Name="NumberOfDigits" Path="NumberOfDigits/NumberOfDigits.project" Active="No"/>
+  <Project Name="Multiplication" Path="Multiplication/Multiplication.project" Active="No"/>
+  <Project Name="Series" Path="Series/Series.project" Active="No"/>
+  <Project Name="Fibonacci_Series" Path="Fibonacci_Series/Fibonacci_Series.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Inputoutput" ConfigName="Debug"/>
+      <Project Name="Temp_C_To_F" ConfigName="Debug"/>
+      <Project Name="Area_Perimeter_Circle" ConfigName="Debug"/>
+      <Project Name="Octal_Hexadecimal" ConfigName="Debug"/>
+      <Project Name="Modulo" ConfigName="Debug"/>
+      <Project Name="TernaryOperator" ConfigName="Debug"/>
+      <Project Name="Percentage" ConfigName="Debug"/>
+      <Project Name="SumOfDigits" ConfigName="Debug"/>
+      <Project Name="Factorial" ConfigName="Debug"/>
+      <Project Name="Binary_to_Decimal" ConfigName="Debug"/>
+      <Project Name="NumberOfDigits" ConfigName="Debug"/>
+      <Project Name="Multiplication" ConfigName="Debug"/>
+      <Project Name="Series" ConfigName="Debug"/>
+      <Project Name="Fibonacci_Series" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Inputoutput" ConfigName="Release"/>
+      <Project Name="Temp_C_To_F" ConfigName="Release"/>
+      <Project Name="Area_Perimeter_Circle" ConfigName="Release"/>
+      <Project Name="Octal_Hexadecimal" ConfigName="Release"/>
+      <Project Name="Modulo" ConfigName="Release"/>
+      <Project Name="TernaryOperator" ConfigName="Release"/>
+      <Project Name="Percentage" ConfigName="Release"/>
+      <Project Name="SumOfDigits" ConfigName="Release"/>
+      <Project Name="Factorial" ConfigName="Release"/>
+      <Project Name="Binary_to_Decimal" ConfigName="Release"/>
+      <Project Name="NumberOfDigits" ConfigName="Release"/>
+      <Project Name="Multiplication" ConfigName="Release"/>
+      <Project Name="Series" ConfigName="Release"/>
+      <Project Name="Fibonacci_Series" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

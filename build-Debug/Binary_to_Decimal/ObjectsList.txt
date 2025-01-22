@@ -1,0 +1,1 @@
+../build-Debug/Binary_to_Decimal/main.cpp.o   

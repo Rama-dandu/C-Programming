@@ -1,0 +1,1 @@
+../build-Debug/ArrayOfCharacterPointers/main.cpp.o   

@@ -1,0 +1,139 @@
+[{
+<<<<<<< HEAD
+  "file": "D:\\Rama\\C_Programming\\DMA_malloc\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\DMA_malloc",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\DMA_malloc\\main.cpp -o D:\\Rama\\C_Programming\\DMA_malloc\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\ArrayOfCharacterPointers\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\ArrayOfCharacterPointers",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\ArrayOfCharacterPointers\\main.cpp -o D:\\Rama\\C_Programming\\ArrayOfCharacterPointers\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\2D_CharacterArray\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\2D_CharacterArray",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\2D_CharacterArray\\main.cpp -o D:\\Rama\\C_Programming\\2D_CharacterArray\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\StringsFunctions\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\StringsFunctions",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\StringsFunctions\\main.cpp -o D:\\Rama\\C_Programming\\StringsFunctions\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\Strings\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\Strings",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\Strings\\main.cpp -o D:\\Rama\\C_Programming\\Strings\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\FunctionPointers\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\FunctionPointers",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\FunctionPointers\\main.cpp -o D:\\Rama\\C_Programming\\FunctionPointers\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\CallBackFunctions\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\CallBackFunctions",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\CallBackFunctions\\main.cpp -o D:\\Rama\\C_Programming\\CallBackFunctions\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\Pointers\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\Pointers",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\Pointers\\main.cpp -o D:\\Rama\\C_Programming\\Pointers\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\VoidPointers\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\VoidPointers",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\VoidPointers\\main.cpp -o D:\\Rama\\C_Programming\\VoidPointers\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\CommandLineArguments\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\CommandLineArguments",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\CommandLineArguments\\main.cpp -o D:\\Rama\\C_Programming\\CommandLineArguments\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\StringConstants\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\StringConstants",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\StringConstants\\main.cpp -o D:\\Rama\\C_Programming\\StringConstants\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\PointerToConstant\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\PointerToConstant",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\PointerToConstant\\main.cpp -o D:\\Rama\\C_Programming\\PointerToConstant\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\PointerToArray\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\PointerToArray",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\PointerToArray\\main.cpp -o D:\\Rama\\C_Programming\\PointerToArray\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\ArrayOfPointers\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\ArrayOfPointers",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\ArrayOfPointers\\main.cpp -o D:\\Rama\\C_Programming\\ArrayOfPointers\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\FunctionReturningPointer\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\FunctionReturningPointer",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\FunctionReturningPointer\\main.cpp -o D:\\Rama\\C_Programming\\FunctionReturningPointer\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\fgetsFunction\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\fgetsFunction",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\fgetsFunction\\main.cpp -o D:\\Rama\\C_Programming\\fgetsFunction\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\PointerPointer\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\PointerPointer",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\PointerPointer\\main.cpp -o D:\\Rama\\C_Programming\\PointerPointer\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\PracticeOnOperators\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\PracticeOnOperators",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\PracticeOnOperators\\main.cpp -o D:\\Rama\\C_Programming\\PracticeOnOperators\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\ConstantPointer\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\ConstantPointer",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\ConstantPointer\\main.cpp -o D:\\Rama\\C_Programming\\ConstantPointer\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\C_Programming\\PointerArithmatics\\main.cpp",
+  "directory": "D:\\Rama\\C_Programming\\PointerArithmatics",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\C_Programming\\PointerArithmatics\\main.cpp -o D:\\Rama\\C_Programming\\PointerArithmatics\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+=======
+  "file": "D:\\Rama\\CinDepth\\Fibonacci_Series\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Fibonacci_Series",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Fibonacci_Series\\main.cpp -o D:\\Rama\\CinDepth\\Fibonacci_Series\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\Series\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Series",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Series\\main.cpp -o D:\\Rama\\CinDepth\\Series\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\Multiplication\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Multiplication",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Multiplication\\main.cpp -o D:\\Rama\\CinDepth\\Multiplication\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\NumberOfDigits\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\NumberOfDigits",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\NumberOfDigits\\main.cpp -o D:\\Rama\\CinDepth\\NumberOfDigits\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\Percentage\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Percentage",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Percentage\\main.cpp -o D:\\Rama\\CinDepth\\Percentage\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\TernaryOperator\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\TernaryOperator",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\TernaryOperator\\main.cpp -o D:\\Rama\\CinDepth\\TernaryOperator\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\Binary_to_Decimal\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Binary_to_Decimal",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Binary_to_Decimal\\main.cpp -o D:\\Rama\\CinDepth\\Binary_to_Decimal\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\Modulo\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Modulo",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Modulo\\main.cpp -o D:\\Rama\\CinDepth\\Modulo\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\Factorial\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Factorial",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Factorial\\main.cpp -o D:\\Rama\\CinDepth\\Factorial\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\Octal_Hexadecimal\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Octal_Hexadecimal",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Octal_Hexadecimal\\main.cpp -o D:\\Rama\\CinDepth\\Octal_Hexadecimal\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\Area_Perimeter_Circle\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Area_Perimeter_Circle",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Area_Perimeter_Circle\\main.cpp -o D:\\Rama\\CinDepth\\Area_Perimeter_Circle\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\Temp_C_To_F\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Temp_C_To_F",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Temp_C_To_F\\main.cpp -o D:\\Rama\\CinDepth\\Temp_C_To_F\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\SumOfDigits\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\SumOfDigits",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\SumOfDigits\\main.cpp -o D:\\Rama\\CinDepth\\SumOfDigits\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Rama\\CinDepth\\Inputoutput\\main.cpp",
+  "directory": "D:\\Rama\\CinDepth\\Inputoutput",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Rama\\CinDepth\\Inputoutput\\main.cpp -o D:\\Rama\\CinDepth\\Inputoutput\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+>>>>>>> 9a35f23 (C Programs)
+ }]

@@ -1,0 +1,1 @@
+../build-Debug/fgetsFunction/main.cpp.o   

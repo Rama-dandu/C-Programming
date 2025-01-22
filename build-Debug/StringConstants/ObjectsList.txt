@@ -1,0 +1,1 @@
+../build-Debug/StringConstants/main.cpp.o   
